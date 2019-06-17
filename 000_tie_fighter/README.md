@@ -100,4 +100,4 @@ float dist2hud(float2 pos) {
 This is my first shader in Unity but certainly not the last one! Looking
 forward to the next experiment, I'll try to find something cool.
 
-You can check the release if you want to see the shader in action! :)
+You can check [the release](https://github.com/Nyrio/graphics-experiments/releases) if you want to see the shader in action! :)
