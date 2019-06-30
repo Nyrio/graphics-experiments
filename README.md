@@ -3,6 +3,7 @@
 My collection of graphics experiments. Check the `README.md` in each folder for
 technical details, and check the releases to see the shaders in action! :)
 
-|Experiment 1|Experiment 0|
+|Some experiments|More experiments|
 |---|---|
-|![screenshot](001_sketch_xwing/screenshot.png)|![screenshot](000_tie_fighter/screenshot.png)|
+| *Working on this one :)* | ![screenshot](002_sunset/screenshot.png) |
+| ![screenshot](001_sketch_xwing/screenshot.png) | ![screenshot](000_tie_fighter/screenshot.png) |
